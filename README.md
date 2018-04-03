@@ -5,8 +5,7 @@
 My name is Pang Zi Han.  
 </head>
 <body>
-<h1>style="background-color:rgb(255, 99, 71);">All About Me</h1>
-<title>This is my website</title>
+<h1>All About Me</h1>
 <p>
 I am a student of Dunman High School and in 1A 2018. </p>
 <p>
