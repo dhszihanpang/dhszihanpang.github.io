@@ -23,6 +23,6 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
     <li>been a model pupil in my primary school</li>
     <li>went to dunman high school</li>
   </ul>
-  Here's my hobbies, CCA, achievements page <a href ="www.dhszihanpang.github"> Other things about Zi Han  </a>. </p>
+  Here's my CCA, achievements page <a href ="www.dhszihanpang.github"> Other things about Zi Han  </a>. </p>
 </body>
 </html>
