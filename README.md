@@ -4,7 +4,9 @@
 <head>
 My name is Pang Zi Han.  
 </head>
-<body>
+<body> {
+  background-image: url("paper.gif");
+   background-color: ##ff33cc;
 <h1>All About Me</h1>
 <p>
 I am a student of Dunman High School and in 1A 2018. </p>
@@ -25,4 +27,5 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
     <li>went to dunman high school</li>
   </ul>
 </body>
+  }
 </html>
