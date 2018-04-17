@@ -1,10 +1,9 @@
 # dhszihanpang.github.io
-<!DOCTYPE html>
 <html>
 <head>
 My name is Pang Zi Han.  
 </head>
-<body> {
+body {
   background-image: url("paper.gif");
    background-color: ##ff33cc;
 <h1>All About Me</h1>
