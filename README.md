@@ -17,12 +17,6 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <img src="https://uploads.disquscdn.com/images/1b2e2f0df7f973209bdd8b72a4b454d67f573c5f9b09e96e91a1c481d7e11016.jpg?w=800&h=1072" alt="A korean boy band(got7)">
 <li>Listening to k-pop music</li>
   </ul>
-  <h2>My achievements</h2>
-  <ul>
-    <li>5 years of top in chinese in primary school</li>
-    <li>been a model pupil in my primary school</li>
-    <li>went to dunman high school</li>
-  </ul>
   Here's my CCA, achievements page <a href ="www.dhszihanpang.html"> Other things about Zi Han  </a>. </p>
 </body>
 </html>
